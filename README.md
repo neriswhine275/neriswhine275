@@ -1,11 +1,8 @@
-<div align="center">
-    <center>
-        <pre>
-|\      _,,,---,,_
-ZZZzz /,`.-'`'    -.  ;-;;,_
-     |,4-  ) )-,_. ,\ (  `'-'
-    '---''(_/--'  `-'\_)
-        </pre>
-        <p style="font-family: monospace; margin-top: 0;">-neriswhine275-</p>
-    </center>
-</div>
+<p align="center"><code>
+|\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_,,,---,,_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+ZZZzz&nbsp;/,`.-'`'&nbsp;&nbsp;&nbsp;&nbsp;-.&nbsp;&nbsp;;-;;,_&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|,4-&nbsp;&nbsp;)&nbsp;)-,_.&nbsp;,\&nbsp;(&nbsp;&nbsp;`'-'<br>
+&nbsp;&nbsp;&nbsp;&nbsp;'---''(_/--'&nbsp;&nbsp;`-'\_)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</code></p>
+
+<p align="center"><b>neriswhine275</b></p>
